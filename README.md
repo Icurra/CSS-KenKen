@@ -17,3 +17,4 @@
 3. Create a **grid** using the `grid class`. Remember the shape and structure of the KenKen board you're trying to recreate to guide the size of your **rows and columns**. Also give your grid a nice size. 800+ pixels should do it.<br>
 4. Give your `grid items class` a **background color** that you like.<br>
 5. Go through each `box# id` and give it the proper **borders** to mimic the example image above.<br>
+# CSS-KenKen
